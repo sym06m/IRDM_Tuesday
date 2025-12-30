@@ -1,0 +1,6 @@
+agent:
+  name: config_agent
+  model: gemini-1.5-pro
+  instruction: |
+    This agent demonstrates configuration-based setup.
+    It responds briefly to user input.
